@@ -10,7 +10,7 @@
 1. clone repository : ```https://github.com/hudsam/login-lite.git```
 2. change directory : ```cd login-lite```
 3. create virtual environment : ```python3 -m venv .venv```
-4. active virtual environment : ```source .venv/bin/active```
+4. active virtual environment : ```source .venv/bin/activate```
 5. install depedencies : ```pip install -r requirements.txt```
 6. running application : ```python3 app.py```
 
