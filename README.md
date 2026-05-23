@@ -18,7 +18,7 @@
 - use ```screen``` tool
 - running background : ```nohup python3 app.py > output.log 2<&1 &```
 
-# Troubleshooing
+### Troubleshooting
 - error after running in background ? re-install python virtual environment (venv) dan install depedencies
 
 ---
