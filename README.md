@@ -23,7 +23,8 @@
 
 #####  cURL
 - open terminal
-- type command : ```curl -X POST http://<IP ADDRESS>:8081/login -H "Content-Type: application/json" -d '{"username": "<USERNAME>", "password": "<PASSWORD>"}'```
+- command (Linux/MacOS) : ```curl -X POST http://<IP ADDRESS>:8081/login -H "Content-Type: application/json" -d '{"username": "<USERNAME>", "password": "<PASSWORD>"}'```
+- command (Windows) : ```curl -X POST http://<IP ADDRESS>:8081/login -H "Content-Type: application/json" -d "{\"username\": \"<USERNAME>\", \"password\": \"<PASSWORD>\"}"```
 
 ##### Hydra (for Legal Penetration Testing)
 - open terminal
