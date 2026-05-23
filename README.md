@@ -14,6 +14,10 @@
 5. install depedencies : ```pip install -r requirements.txt```
 6. running application : ```python3 app.py```
 
+### Tips
+- using ```screen```
+- running background : ```nohup python3 app.py > output.log 2<&1 &```
+
 ---
 
 ### Testing
