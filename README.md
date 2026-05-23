@@ -15,8 +15,11 @@
 6. running application : ```python3 app.py```
 
 ### Tips
-- using ```screen```
+- use ```screen``` tool
 - running background : ```nohup python3 app.py > output.log 2<&1 &```
+
+# Troubleshooing
+- error after running in background ? re-install python virtual environment (venv) dan install depedencies
 
 ---
 
