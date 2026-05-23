@@ -19,7 +19,7 @@
 - running background : ```nohup python3 app.py > output.log 2<&1 &```
 
 ### Troubleshooting
-- error after running in background ? re-install python virtual environment (venv) dan install depedencies
+- error after running in background ? remove python virtual environment (venv) dan re-install depedencies
 
 ---
 
